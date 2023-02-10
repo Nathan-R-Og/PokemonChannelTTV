@@ -1,2 +1,1 @@
-# PokemonChannelTTV
-twitch plays setup for pokemon channel for the gamecube
+Uses python, cheat engine (for research) and dolphin.
